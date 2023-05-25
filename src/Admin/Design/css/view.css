@@ -1,0 +1,73 @@
+.rat-form {
+    margin: 2% auto;
+}
+
+.rat-form form {
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 5%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+
+h3 {
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: 5%;
+}
+
+body {
+    background: #E4E9F7;
+}
+
+.stars {
+    color: #ffc700;
+    font-size: 40px;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+h6 {
+    text-align: center;
+    margin-top: 2%;
+}
+
+textarea {
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+
+figcaption {
+    margin-top: 5%;
+}
+
+.card img {
+    width: 90%;
+    height: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    margin-bottom: 3%;
+}
+
+.btn {
+    width: auto;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+img {
+    width: 10%;
+}

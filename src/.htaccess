@@ -1,0 +1,5 @@
+ErrorDocument 400 http://localhost/funpark/404.php
+ErrorDocument 401 http://localhost/funpark/404.php
+ErrorDocument 403 http://localhost/funpark/404.php
+ErrorDocument 404 http://localhost/funpark/404.php
+ErrorDocument 500 http://localhost/funpark/404.php

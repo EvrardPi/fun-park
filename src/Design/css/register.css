@@ -1,0 +1,282 @@
+@media(min-width: 1px) and (max-width: 425px) {
+    body {
+        background: url(../picture/inscription.jpg) no-repeat center fixed;
+        background-size: cover;
+    }
+    #global {
+        width: 80%;
+        margin: auto;
+        padding: 2%;
+    }
+    #contenu {
+        width: 100%;
+    }
+    .login-form {
+        width: 80%;
+        margin: 10% auto;
+    }
+    .login-form form {
+        background: #FFFFFF;
+        opacity: 95%;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 9%;
+        border-radius: 10px;
+    }
+    .conditions {
+        font-size: 76%;
+        color: #777C82;
+        margin: 5% auto;
+        text-align: center;
+    }
+    .dejainscrit {
+        font-size: 90%;
+        color: #777C82;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+    .login-form h1 {
+        text-align: center;
+        font-family: fantasy;
+        color: #17A2B8;
+        margin-bottom: 12%;
+    }
+    .login-form h4 {
+        text-align: center;
+        color: #17A2B8;
+    }
+    .btn {
+        width: 100%;
+        margin-bottom: 3%;
+    }
+    .errorr {
+        font-size: 76%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .errorCheck {
+        font-size: 76%;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    input::placeholder {
+        text-align: center;
+    }
+    input {
+        text-align: center;
+    }
+}
+
+@media(min-width: 426px) and (max-width: 767px) {
+    body {
+        background: url(../picture/inscription.jpg) no-repeat center fixed;
+        background-size: cover;
+    }
+    #global {
+        width: 80%;
+        margin: auto;
+        padding: 2%;
+    }
+    #contenu {
+        width: 100%;
+    }
+    .login-form {
+        width: 70%;
+        margin: 10% auto;
+    }
+    .login-form form {
+        background: #FFFFFF;
+        opacity: 95%;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 9%;
+        border-radius: 10px;
+    }
+    .conditions {
+        font-size: 76%;
+        color: #777C82;
+        margin: 5% auto;
+        text-align: center;
+    }
+    .dejainscrit {
+        font-size: 90%;
+        color: #777C82;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+    .login-form h1 {
+        text-align: center;
+        font-family: fantasy;
+        color: #17A2B8;
+        margin-bottom: 12%;
+    }
+    .login-form h4 {
+        text-align: center;
+        color: #17A2B8;
+    }
+    .btn {
+        width: 100%;
+        margin-bottom: 3%;
+    }
+    .errorr {
+        font-size: 76%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .errorCheck {
+        font-size: 76%;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    input::placeholder {
+        text-align: center;
+    }
+    input {
+        text-align: center;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 1388px) {
+    body {
+        background: url(../picture/inscription.jpg) no-repeat center fixed;
+        background-size: cover;
+    }
+    #global {
+        width: 80%;
+        margin: auto;
+        padding: 2%;
+    }
+    #contenu {
+        width: 100%;
+    }
+    .login-form {
+        width: 60%;
+        margin: 10% auto;
+    }
+    .login-form form {
+        background: #FFFFFF;
+        opacity: 95%;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 9%;
+        border-radius: 10px;
+    }
+    .conditions {
+        font-size: 100%;
+        color: black;
+        margin: 5% auto;
+        text-align: center;
+    }
+    .dejainscrit {
+        font-size: 100%;
+        color: black;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+    .login-form h1 {
+        text-align: center;
+        font-family: fantasy;
+        color: #17A2B8;
+        margin-bottom: 12%;
+    }
+    .login-form h4 {
+        text-align: center;
+        color: #17A2B8;
+    }
+    .btn {
+        width: 100%;
+        margin-bottom: 3%;
+    }
+    .errorr {
+        font-size: 95%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .errorCheck {
+        font-size: 95%;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    input::placeholder {
+        text-align: center;
+    }
+    input {
+        text-align: center;
+    }
+}
+
+@media(min-width: 1388px) {
+    body {
+        background: url(../picture/inscription.jpg) no-repeat center fixed;
+        background-size: cover;
+    }
+    #global {
+        width: 80%;
+        margin: auto;
+        padding: 2%;
+    }
+    #contenu {
+        width: 100%;
+    }
+    .login-form {
+        width: 22%;
+        margin: 1% auto;
+    }
+    .login-form form {
+        background: #FFFFFF;
+        opacity: 95%;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 9%;
+        border-radius: 10px;
+    }
+    .conditions {
+        font-size: 76%;
+        color: #777C82;
+        margin: 5% auto;
+    }
+    .dejainscrit {
+        font-size: 90%;
+        color: #777C82;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+    .login-form h1 {
+        text-align: center;
+        font-family: fantasy;
+        color: #17A2B8;
+        margin-bottom: 12%;
+    }
+    .login-form h4 {
+        text-align: center;
+        color: #17A2B8;
+    }
+    .btn {
+        width: 100%;
+        margin-bottom: 3%;
+    }
+    .errorr {
+        font-size: 76%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .errorCheck {
+        font-size: 76%;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    input::placeholder {
+        text-align: center;
+    }
+    input {
+        text-align: center;
+    }
+}

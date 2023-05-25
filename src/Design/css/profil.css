@@ -1,0 +1,211 @@
+@media(min-width: 1px) and (max-width: 425px) {
+    .login-form {
+        width: 100%;
+        margin: auto;
+    }
+    .login-form form {
+        width: 100%;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 10%;
+        border-radius: 10px;
+        margin-bottom: 25%;
+    }
+    .btn {
+        width: 100%;
+    }
+    div.col input::placeholder {
+        text-align: center;
+        font-size: 55%;
+    }
+    .login-form h5 {
+        text-align: center;
+        font-size: 90%;
+        margin-bottom: 7%;
+    }
+    hr {
+        margin-top: 6%;
+        margin-bottom: 6%;
+    }
+    .errorrr {
+        font-size: 76%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .info {
+        font-size: 70%;
+        text-align: center;
+        width: 100%;
+    }
+    h3 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 6%;
+        margin-top: 5%;
+    }
+    body {
+        background: #E4E9F7;
+    }
+    input[type='password'] {
+        text-align: center;
+    }
+    h5 {
+        width: 100%;
+    }
+}
+
+@media(min-width: 426px) and (max-width: 767px) {
+    .login-form {
+        width: 90%;
+        margin: auto;
+    }
+    .login-form form {
+        width: 100%;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 10%;
+        border-radius: 10px;
+        margin-bottom: 25%;
+    }
+    h3 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 4%;
+        margin-top: 3%;
+    }
+    .btn {
+        width: 100%;
+    }
+    div.col input::placeholder {
+        text-align: center;
+    }
+    .login-form h5 {
+        text-align: center;
+        margin-bottom: 7%;
+    }
+    hr {
+        margin-top: 6%;
+        margin-bottom: 6%;
+    }
+    .errorrr {
+        font-size: 76%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .info {
+        font-size: 85%;
+        text-align: center;
+    }
+    body {
+        background: #E4E9F7;
+    }
+    input[type='password'] {
+        text-align: center;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 1388px) {
+    .login-form {
+        width: 90%;
+        margin: auto;
+    }
+    .login-form form {
+        width: 100%;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 10%;
+        border-radius: 10px;
+        margin-bottom: 25%;
+    }
+    .btn {
+        width: 100%;
+    }
+    div.col input::placeholder {
+        text-align: center;
+    }
+    .login-form h5 {
+        text-align: center;
+        margin-bottom: 7%;
+    }
+    hr {
+        margin-top: 6%;
+        margin-bottom: 6%;
+    }
+    .errorrr {
+        font-size: 76%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .info {
+        font-size: 100%;
+        text-align: center;
+    }
+    h3 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 4%;
+        margin-top: 3%;
+    }
+    body {
+        background: #E4E9F7;
+    }
+    input[type='password'] {
+        text-align: center;
+    }
+}
+
+@media(min-width: 1388px) {
+    .login-form {
+        width: 60%;
+        margin: auto;
+    }
+    .login-form form {
+        width: 100%;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 10%;
+        border-radius: 10px;
+        margin-bottom: 25%;
+    }
+    .btn {
+        width: 100%;
+    }
+    div.col input::placeholder {
+        text-align: center;
+    }
+    .login-form h5 {
+        text-align: center;
+        margin-bottom: 7%;
+    }
+    hr {
+        margin-top: 6%;
+        margin-bottom: 6%;
+    }
+    .errorrr {
+        font-size: 76%;
+        margin: 2% auto;
+        color: red;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .info {
+        font-size: 85%;
+        text-align: center;
+    }
+    h3 {
+        margin-left: 13%;
+        margin-top: 2%;
+    }
+    body {
+        background: #E4E9F7;
+    }
+    input[type='password'] {
+        text-align: center;
+    }
+}

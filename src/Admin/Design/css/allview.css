@@ -1,0 +1,41 @@
+img {
+    width: 200px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 30%;
+}
+
+.rat-form form {
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 3%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+
+h6 {
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+.btn {
+    width: 90%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3 {
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+body {
+    background: #E4E9F7;
+}

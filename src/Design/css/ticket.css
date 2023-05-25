@@ -1,0 +1,84 @@
+.pricing .card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing .card-body {
+    padding: 15%;
+}
+
+.pricing hr {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.pricing .card-title {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+}
+
+.pricing .card-price {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.pricing .card-price .period {
+    font-size: 0.8rem;
+}
+
+div .form-group {
+    margin-top: 20%;
+}
+
+.pricing .btn {
+    font-size: 100%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    opacity: 70%;
+    transition: all 1s;
+    margin-top: 30%;
+}
+
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+    .pricing .card:hover {
+        margin-top: -.25rem;
+        margin-bottom: .25rem;
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+    .pricing .card:hover .btn {
+        opacity: 1;
+    }
+}
+
+h3 {
+    margin-bottom: 5%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+h6 {
+    padding-top: 2%;
+}
+
+body {
+    background: #E4E9F7;
+}
+
+.errorr {
+    font-size: 76%;
+    margin: 2% auto;
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+}
+
+label {
+    margin-left: 15%;
+}

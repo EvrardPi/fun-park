@@ -1,0 +1,64 @@
+.rat-form form {
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 3%;
+    border-radius: 10px;
+}
+
+.btn {
+    margin-top: 5%;
+    width: 50%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+input {
+    margin-bottom: 5%;
+}
+
+.info {
+    font-size: 85%;
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+
+body {
+    background: #E4E9F7;
+}
+
+select {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+    width: auto;
+    border-color: #DEE2E6;
+    border-radius: 10px;
+}
+
+input::placeholder {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+.errorr {
+    font-size: 76%;
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 10%;
+}
